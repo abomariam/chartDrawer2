@@ -5,7 +5,7 @@ var ChartType = {
     Column: "column"
 }
 
-ChartDDDDDDDrawer.NewChart = function(div1){
+ChartDrawer.NewChart = function(div1){
     
     var b = document.getElementById(div1);
     
